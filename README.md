@@ -1,6 +1,8 @@
 # Journal
 Journals rank
 
+created develop
+
 Minimum requrements:
 Maven (preffered 3.3.9)
 
